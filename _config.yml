@@ -1,0 +1,23 @@
+name: Nerotica
+favicon: null
+layout_spectrum: 0.9791078981943429
+typography_spectrum: 0.8049744414165616
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5509161844383925
+  lightness: 0.38081608968786895
+  saturation: 0.16199694271199405
+  rhythmicContrast: 0.612297433661297
+purpose: []
